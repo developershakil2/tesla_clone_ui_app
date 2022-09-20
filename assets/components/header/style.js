@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
         height: 80,
         zIndex: 100,
         position: 'absolute',
-        top: 10,
+        top: 20,
         flexDirection: "row",
         justifyContent: "space-between",
         paddingHorizontal: 20
@@ -17,8 +17,6 @@ const styles = StyleSheet.create({
         width: 100,
         height: 30,
         resizeMode: 'contain'
-
-
     }, menu: {
         width: 30,
         height: 30,

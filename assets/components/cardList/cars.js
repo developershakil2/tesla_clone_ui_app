@@ -2,7 +2,7 @@ export default [{
   name: 'Model S',
   tagline: 'Starting at $69,420',
   taglineCTA: 'Touchless Delivery',
-  image: require('../images/Models.jpeg'),
+  image: require('../images/ModelS.jpeg'),
 }, {
   name: 'Model 3',
   tagline: 'Order Online for',
